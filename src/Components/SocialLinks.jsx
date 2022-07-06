@@ -29,7 +29,7 @@ const SocialLinks = () => {
 
             <li className='w-40 flex justify-between items-center bg-slate-500/50 px-4 py-2  ml-[-120px] hover:ml-[-10px]
             duration-150'>
-                <a target='_blank' rel="noreferrer" href='mailto:foo@gmail.com' className='flex justify-between items-center w-full text-gray-100'>
+                <a target='_blank' rel="noreferrer" href='mailto:mateenabdul993@gmail.com' className='flex justify-between items-center w-full text-gray-100'>
                     <>
                     mail <HiOutlineMail />
                     </>
