@@ -30,7 +30,7 @@ const Navbar = () => {
   return (
     <div className=' fixed z-10 flex justify-between items-center w-full px-4 h-20 capitalize bg-black text-white border-b-2 border-gray-800'>
         <div className='ml-2'>
-            <h1 className=' text-5xl font-signature'>
+            <h1 className='text-blue-300 text-5xl font-signature'>
                @Mateen
             </h1>
         </div>

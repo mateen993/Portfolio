@@ -25,7 +25,7 @@ const Home = () => {
                 </div>
             </div>
             <div>
-                <img src={abdulMateen} alt="my profile" className='rounded-2xl w-[45%] md:w-[90%] mx-auto mt-4'  />
+                <img src={abdulMateen} alt="my profile" className='hover:scale-105 duration-200 rounded-2xl w-[45%] md:w-[90%] mx-auto mt-4'  />
             </div>  
         </div>
     </div>
