@@ -91,7 +91,7 @@ const Experience = () => {
             experiences.map(({id,src,name,style})=>{
                return (
                 <div>
-                    <div key={id} className= {`shadow-md shadow-gray-600 w-[80%] rounded-lg hover:scale-110 duration-150 ${style}`} >
+                    <div key={id} className= {`shadow-md w-[80%] rounded-lg hover:scale-110 duration-150 ${style}`} >
                         <img src={src} alt='' className='rounded-lg p-4'/>
                     </div> 
                     <div>
