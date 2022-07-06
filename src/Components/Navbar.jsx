@@ -57,7 +57,7 @@ const Navbar = () => {
             {
                 links.map(({id, link}) =>{
                     return <li key={id} className='px-4 cursor-pointer capitalize py-6 text-2xl'>
-                       
+                      <Link to={link} smooth duration={500}>{link}</Link>  
                     </li>
                 })
             }
