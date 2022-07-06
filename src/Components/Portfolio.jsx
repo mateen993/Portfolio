@@ -33,7 +33,7 @@ const Portfolio = () => {
         }
     ]
   return (
-    <div name="portfolio" className='px-2 bg-gradient-to-b to-gray-800 from-black w-full text-white md:h-screen pt-8'>
+    <div name="portfolio" className='px-2 bg-gradient-to-b to-gray-800 from-black w-full text-white md:h-screen pt-14'>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-fit'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500 pt-0'>Portfolio</p>
