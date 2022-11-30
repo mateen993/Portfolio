@@ -12,7 +12,7 @@ function App() {
     <div>
       <Helmet>
             <meta charSet="utf-8" />
-            <title>My Portfolio Website</title>
+            <title>My Portfolio </title>
             <link rel="canonical" href="https://my-portolio.netlify.app/" />
             <meta name="description" content="This is my portfolio website I made with the use of React and Tailwind css" />
       </Helmet>
