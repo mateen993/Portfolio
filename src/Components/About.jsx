@@ -7,7 +7,7 @@ const About = () => {
             About
         </h1>
         <p className='mt-4 px-4 text-xl '>
-            I'm a fresher Web developer and programmer living in Pakistan. I make web applications usually with MERN stack. I have a diverse set of skills ranging from simple design to HTML, CSS, JavaScript all the way to creating web applications using Express, Node, MongoDB and React. 
+        As an ambitious MERN stack web developer with 6 months of experience, I am passionate about building dynamic and immersive web applications. With a strong foundation in MongoDB, Express.js, React, and Node.js, I have successfully delivered projects that showcase my ability to bring ideas to life. During my journey, I have gained hands-on experience in front-end and back-end development, including building responsive user interfaces, integrating APIs, and implementing database functionality with MongoDB. My dedication to staying updated with the latest web development trends and technologies enables me to create modern and efficient solutions. With excellent problem-solving skills and a keen eye for detail, I am committed to delivering high-quality code and exceptional user experiences. As I continue to grow as a developer, I am excited to collaborate with talented teams and contribute to the development of innovative MERN stack applications.
         </p>
         
     </div>
