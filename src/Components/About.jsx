@@ -1,17 +1,39 @@
-import React from 'react'
+import React from "react";
 
 const About = () => {
   return (
-    <div name="about" className='text-white bg-gradient-to-b to-black from-gray-800 md:h-screen sm:h-fit px-4 pt-20'>
-        <h1 className='py-2 text-4xl mb-8 font-bold inline border-b-4 border-gray-500'>
-            About
-        </h1>
-        <p className='mt-4 px-4 text-xl '>
-        As an ambitious MERN stack web developer with 6 months of experience, I am passionate about building dynamic and immersive web applications. With a strong foundation in MongoDB, Express.js, React, and Node.js, I have successfully delivered projects that showcase my ability to bring ideas to life. During my journey, I have gained hands-on experience in front-end and back-end development, including building responsive user interfaces, integrating APIs, and implementing database functionality with MongoDB. My dedication to staying updated with the latest web development trends and technologies enables me to create modern and efficient solutions. With excellent problem-solving skills and a keen eye for detail, I am committed to delivering high-quality code and exceptional user experiences. As I continue to grow as a developer, I am excited to collaborate with talented teams and contribute to the development of innovative MERN stack applications.
-        </p>
-        
+    <div
+      name="about"
+      className="text-white bg-gradient-to-b to-black from-gray-800 md:h-screen sm:h-fit px-4 pt-20"
+    >
+      <h1 className="py-2 text-4xl mb-8 font-bold inline border-b-4 border-gray-500">
+        About
+      </h1>
+      <p className="mt-4 p-4 text-base  ">
+        As a full stack developer with experience in the MERN stack (MongoDB,
+        Express.js, React.js, Node.js), I am passionate about creating efficient
+        and user-friendly web applications. During my internship, I had the
+        opportunity to work on various projects that involved both front-end and
+        back-end development. I have a strong foundation in JavaScript and have
+        utilized React.js to build dynamic and interactive user interfaces. With
+        React's component-based architecture and virtual DOM, I have been able
+        to create scalable and maintainable front-end solutions. On the
+        back-end, I have worked with Node.js and Express.js to build RESTful
+        APIs that communicate with the database. I am familiar with database
+        design and have experience working with MongoDB, a NoSQL database, to
+        store and retrieve data efficiently. Throughout my internship, I have
+        gained valuable experience in version control using Git and have
+        collaborated with a team to deliver projects within tight deadlines. I am always
+        eager to learn and stay updated with the latest technologies and trends
+        in the web development industry. I am excited about the opportunities
+        that lie ahead as a full stack developer and am committed to
+        continuously improving my skills to contribute to the success of
+        projects and deliver exceptional user experiences. Outside of work, I
+        enjoy taking part in coding challenges and personal projects to further
+        enhance my skills and knowledge.
+      </p>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;
